@@ -1,0 +1,6 @@
+* Tasks
+** DONE Create project in terminal: lein new reagent 2048 +test
+   CLOSED: [2015-09-06 Sun 00:14]
+* TODO Install rlwrap
+* TODO Add nrepl
+* TODO 
