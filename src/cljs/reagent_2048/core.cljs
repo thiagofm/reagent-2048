@@ -10,10 +10,10 @@
 ;; Definitions
 
 (def empty-tiles
-  [[2 4 8 16]
-   [4 8 16 32]
-   [8 16 256 64]
-   [16 32 64 128]])
+  [[0 0 0 0]
+   [0 0 0 0]
+   [0 0 0 0]
+   [0 0 0 0]])
 (def no-score-addition
   0)
 (def keycodes
