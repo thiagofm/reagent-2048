@@ -45,6 +45,6 @@ I'm sure it's possible to come up with very elegant solutions for that. If you d
 * There's two fn's you need to know to use the atom: reset! and swap!, with reset you just override the value of the atom, swap! gives you the value of the atom, so you can play with it.
 * There's more to know about atoms in reagent: watchers and cursors.
 * Use the init! method to setup your game.
-* People doesn't seem to use many atoms, they usually use just one and access it with cursors(I think).
-* For better architecture in reagent, google 
+* It's not a good idea to use many atoms in a real world application, one is enoght.
+* For better architecture, check https://github.com/Day8/re-frame
 * Belive in yourself.
